@@ -12,7 +12,7 @@
 yum -y install wget
 
 # Ubuntu
-apt-get -y istall wget
+apt-get -y install wget
 ```
 
 安装服务
